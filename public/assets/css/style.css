@@ -1,0 +1,25 @@
+body {
+    background-color:#F7F8FC;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.gray {
+    color: #9FA2B4;
+}
+
+p,h2,h3,h4,h5 {
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.big-text{
+    font-size: 40px;
+}
+
+.small-text{
+    font-size: 12px;
+}
