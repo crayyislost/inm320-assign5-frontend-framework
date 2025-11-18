@@ -31,3 +31,20 @@ p,h2,h3,h4,h5 {
 .blue {
     color: #3751FF;
 }
+
+/* .grayB {
+    color: #9FA2B4;
+} */
+
+/* .hover {
+    color: #9FA2B4;
+}
+
+.hover p {
+    color: black;
+} */
+
+.hover:hover {
+    border-color: #3751FF;
+    color: #3751FF;
+}
