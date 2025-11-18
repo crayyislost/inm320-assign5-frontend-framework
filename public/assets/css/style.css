@@ -16,10 +16,18 @@ p,h2,h3,h4,h5 {
   font-style: normal;
 }
 
-.big-text{
+.big-text {
     font-size: 40px;
 }
 
-.small-text{
+.small-text {
     font-size: 12px;
+}
+
+.med-text {
+    font-size: 24px;
+}
+
+.blue {
+    color: #3751FF;
 }
